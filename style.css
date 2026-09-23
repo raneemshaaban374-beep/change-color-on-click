@@ -1,0 +1,22 @@
+.buttonss{
+    display: inline-table;
+    padding: 90px;
+    margin: 10 px;
+    border-radius: 5px;
+   align-items: center;
+    font-weight: bold;
+    font-size: 16px;
+    color: bisque;
+}
+#btn1{
+    background-color: red;
+}
+#btn2{
+    background-color: blue;
+}
+#btn3{
+    background-color: green;
+}
+h1{
+    text-align: center;
+}
